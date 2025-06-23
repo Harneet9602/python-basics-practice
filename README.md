@@ -5,7 +5,9 @@ This is a collection of small Python code snippets I wrote while learning founda
 - String methods and slicing
 - List indexing, appending, popping
 - Tuples and immutability
-- Set operations
+- Sets and set operations
+- Dictionaries and key-value access
+- List comprehensions
 
 It includes code experimentation and method usage — the building blocks for all Python data projects.
 
